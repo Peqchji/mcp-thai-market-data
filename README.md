@@ -1,4 +1,4 @@
-# 🇹🇭 Thai Stock & Fund Analyzer — MCP Server
+# Thai Stock & Fund Analyzer — MCP Server
 
 > An MCP (Model Context Protocol) server that gives Claude real-time access to Thai stock (SET/MAI) and mutual fund data — powered entirely by **free APIs**.
 
@@ -165,8 +165,8 @@ Once set up, try asking Claude:
 ## 🗺️ Roadmap
 
 - [x] Phase 1: Project setup & Hello World MCP tool
-- [x] Phase 2: Stock price tools (Yahoo Finance)
-- [x] Phase 3: Fund NAV tools (SEC Thailand API)
+- [ ] Phase 2: Stock price tools (Yahoo Finance)
+- [ ] Phase 3: Fund NAV tools (SEC Thailand API)
 - [ ] Phase 4: Portfolio analyzer
 - [ ] Phase 5: Historical price charts (text-based sparklines)
 - [ ] Phase 6: Fund screener (filter by risk level, return, AMC)
